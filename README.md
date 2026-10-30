@@ -10,9 +10,10 @@ Chrome 扩展 · Chrome Extension — 本仓库是 CleanX 的主页与支持页�
 
 ## Install / 安装
 
-Chrome 应用商店上架中 / Coming soon to the Chrome Web Store.
+从 Chrome 应用商店安装 / Install from the Chrome Web Store:
+👉 https://chromewebstore.google.com/detail/incighicjakhnkaedhagbdoaaoaefimo
 
-已构建版本可从源码安装 / You can also load the built `dist` folder from the [cleanX](https://github.com/englishhearhub/cleanX) repository.
+已构建版本也可从源码安装 / You can also load the built `dist` folder from the [cleanX](https://github.com/englishhearhub/cleanX) repository.
 
 ## Features / 功能
 
